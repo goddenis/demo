@@ -1,0 +1,7 @@
+ssj:
+  enabled: true
+  secret: "sssssss"
+  time-to-live-seconds: 7200
+  oib:
+    server-base-url: http://localhost:8089
+    app-base-url: http://localhost:8089
